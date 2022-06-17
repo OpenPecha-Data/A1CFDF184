@@ -1,0 +1,22 @@
+segment_sources:
+  IE0088018:
+    type: origin_type
+    relation: translation
+    language: en
+  IAF3FC601:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  23b954801e594538ab9b76855c53a06f:
+    IE0088018: cc4d4906bd224116a931737c5d7560ae
+    IAF3FC601: 99cdaea179924bc4bf0bf6c9203ccd89
+  2eca5886a65d46d1a9b7be9fdd8bb075:
+    IE0088018: f5e2289f6cf54aaea4cf4f9764e1fcf4
+    IAF3FC601: ed1ef75e1c5041c5971e7b8ee3bc73e0
+  da031c1650b847448b34c40d015bc2bd:
+    IE0088018: 6d68f829f6de47e193a7e10e045ee18d
+    IAF3FC601: 72454ba90a044d40b50fc11494f970a5
+  48c74929eefc4b80a67fce6de2316013:
+    IE0088018: 31634be2af6e4dcebc95ceed6fbe5e5a
+    IAF3FC601: e42a4438dee043b8ab4d6a6d3bad9af0
